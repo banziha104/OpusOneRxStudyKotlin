@@ -1,0 +1,2 @@
+rootProject.name='OpusOneRxStudyKotlin'
+include ':app'
